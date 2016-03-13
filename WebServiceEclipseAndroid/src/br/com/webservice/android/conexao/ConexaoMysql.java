@@ -83,7 +83,7 @@ public class ConexaoMysql implements Runnable {
 		}
 	}
 	
-	/*
+	/* *****************
 
 	public ResultSet select(String query) {
 		this.conectar();
